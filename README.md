@@ -1,5 +1,5 @@
 # hamptoninn
-##Hampton Inn Text and Sentiment Analysis 
+## Hampton Inn Text and Sentiment Analysis 
 
 This project is created for MKTG6620 Analytics Applications of Machine Learning class at the University of Utah.
 
